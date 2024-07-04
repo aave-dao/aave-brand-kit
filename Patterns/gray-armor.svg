@@ -1,0 +1,20 @@
+<svg width="256" height="192" viewBox="0 0 256 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_92_1868)">
+<rect width="256" height="192" fill="#201D1D" style="fill:#201D1D;fill:color(display-p3 0.1255 0.1137 0.1137);fill-opacity:1;"/>
+<path d="M92 144C65.4903 144 44 122.51 44 96L140 96C140 122.51 118.51 144 92 144Z" fill="#837E7E" style="fill:#837E7E;fill:color(display-p3 0.5137 0.4941 0.4941);fill-opacity:1;"/>
+<path d="M92 48C118.51 48 140 69.4903 140 96L44 96C44 69.4903 65.4903 48 92 48Z" fill="#BCBBBB" style="fill:#BCBBBB;fill:color(display-p3 0.7373 0.7333 0.7333);fill-opacity:1;"/>
+<path d="M44 192C17.4903 192 -4 170.51 -3.99999 144L92 144C92 170.51 70.5097 192 44 192Z" fill="#837E7E" style="fill:#837E7E;fill:color(display-p3 0.5137 0.4941 0.4941);fill-opacity:1;"/>
+<path d="M44 96C70.5097 96 92 117.49 92 144L-4 144C-4 117.49 17.4903 96 44 96Z" fill="#BCBBBB" style="fill:#BCBBBB;fill:color(display-p3 0.7373 0.7333 0.7333);fill-opacity:1;"/>
+<path d="M44 96C17.4903 96 -4 74.5097 -3.99999 48L92 48C92 74.5097 70.5097 96 44 96Z" fill="#837E7E" style="fill:#837E7E;fill:color(display-p3 0.5137 0.4941 0.4941);fill-opacity:1;"/>
+<path d="M44 -3.4331e-06C70.5097 -1.11555e-06 92 21.4903 92 48L-4 48C-4 21.4903 17.4903 -5.75065e-06 44 -3.4331e-06Z" fill="#BCBBBB" style="fill:#BCBBBB;fill:color(display-p3 0.7373 0.7333 0.7333);fill-opacity:1;"/>
+<path d="M-4 144C-30.5097 144 -52 122.51 -52 96L44 96C44 122.51 22.5097 144 -4 144Z" fill="#837E7E" style="fill:#837E7E;fill:color(display-p3 0.5137 0.4941 0.4941);fill-opacity:1;"/>
+<path d="M-4 144C22.5097 144 44 165.49 44 192L-52 192C-52 165.49 -30.5097 144 -4 144Z" fill="#BCBBBB" style="fill:#BCBBBB;fill:color(display-p3 0.7373 0.7333 0.7333);fill-opacity:1;"/>
+<path d="M-4 48C-30.5097 48 -52 26.5097 -52 -1.67852e-05L44 0C44 26.5097 22.5097 48 -4 48Z" fill="#837E7E" style="fill:#837E7E;fill:color(display-p3 0.5137 0.4941 0.4941);fill-opacity:1;"/>
+<path d="M-4 48C22.5097 48 44 69.4903 44 96L-52 96C-52 69.4903 -30.5097 48 -4 48Z" fill="#BCBBBB" style="fill:#BCBBBB;fill:color(display-p3 0.7373 0.7333 0.7333);fill-opacity:1;"/>
+</g>
+<defs>
+<clipPath id="clip0_92_1868">
+<rect width="256" height="192" fill="white" style="fill:white;fill-opacity:1;"/>
+</clipPath>
+</defs>
+</svg>
