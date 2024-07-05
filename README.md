@@ -145,3 +145,120 @@ While white from the primary color palette can be used across all derivatives, t
 ![](/Readme/derivative-palettes.png)
 
 # Typeface
+
+## Brand Typeface
+
+The Aave brand typeface, FT Regola Neue by Formula Type, merges geometric and grotesque elements into a geo-grotesque style.
+
+Its circular profile complements the semicircular shapes common across the brand's various elements.
+
+![](/Readme/brand-typeface.png)
+
+## Brand Typeface Weights
+
+FT Regola Neue comes in a set of different weights:
+
+- Regular
+- Medium
+- Semibold
+- Bold
+- Italic
+
+![](/Readme/brand-typeface-weights.png)
+
+## Alternative Glyphs
+
+FT Regola Neue offers two alternative glyphs for the letter 'a':
+
+- Double-storey
+- Single-storey
+
+The single-storey 'a' should always be used in Aave’s visual communications.
+
+The alternative shapes of the 'a' can be accessed via OpenType settings.
+
+![](/Readme/alternative-glyphs.png)
+
+## Typeface Hierarchy
+
+Each weight of the brand typeface should be used considering a particular hierarchy.
+
+### Regular
+
+Regular should be used for larger bodies of text and descriptions.
+
+### Medium
+
+Medium can be used for both, larger bodies of text and headlines.
+
+### Semibold
+
+Semibold usage should be reserved only for headlines or highlighting specific parts of a text.
+
+![](/Readme/typeface-hierarchy.png)
+
+## Using Brand Typeface
+
+- Headlines should be set in either Regola Medium or Regola Semibold.
+- Body text should be set in Inter.
+
+![](/Readme/using-brand-typeface.png)
+
+![](/Readme/using-brand-typeface-cont.png)
+
+# Illustrations
+
+## The Semicircle
+
+The semicircle is a modular brand accent, originating from the Aave Ghost Logomark's initial shape.
+
+This simple graphic element can be versatilely employed to complement and enhance the other visual assets.
+
+![](/Readme/the-semicircle.png)
+
+## Using The Semicircle
+
+The semicircle can be used in
+a variety of ways:
+
+A
+Used as a stand-alone element.
+
+B
+Repeated, layered and rotated.
+
+C
+Overlapped to form more complex pattern elements.
+
+![](/Readme/using-the-semicircle.png)
+
+The modularity of the semicircle allows for total control over the complexity of patterns.
+
+The patterns can vary from very simple to detailed.
+
+![](/Readme/using-the-semicircle-cont.png)
+
+The Semicircle element can be paired with text.
+Text can be placed below, above
+or next to the semicircular elements.
+
+Avoid overlapping text and semicircles.
+
+![](/Readme/using-the-semicircle-with-text.png)
+
+## Illustrations
+
+Another significant brand feature is a collection of illustrations depicting Ronnie, a friendly ghost mascot.
+
+These illustrations can function as purely decorative elements or be employed to elucidate different facets of the Aave universe.
+
+![](/Readme/ronnie-1.png)
+
+Illustrations come in various
+degrees of complexity and detail
+
+![](/Readme/ronnie-2.png)
+
+The illustrations are semitransparent and will blend with solid background colors.
+
+![](/Readme/ronnie-3.png)
