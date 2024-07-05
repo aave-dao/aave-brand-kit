@@ -221,14 +221,9 @@ This simple graphic element can be versatilely employed to complement and enhanc
 The semicircle can be used in
 a variety of ways:
 
-A
-Used as a stand-alone element.
-
-B
-Repeated, layered and rotated.
-
-C
-Overlapped to form more complex pattern elements.
+1. Used as a stand-alone element.
+2. Repeated, layered and rotated.
+3. Overlapped to form more complex pattern elements.
 
 ![](/Readme/using-the-semicircle.png)
 
