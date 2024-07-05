@@ -48,11 +48,13 @@ or be combined to create the full
 Aave Logo.
 
 ![](/Readme/aave-logo-construction.png)
+
 ![](/Readme/aave-logo-construction-cont.png)
 
 ## Token Logo
 
 The Aave Token Logo is created by positioning the original Ghost Logomark inside a circular container.
+
 ![](/Readme/token-logo.png)
 
 ## Profile Picture
@@ -80,17 +82,20 @@ For example, if you’re throwing an Aave related event, you may want to use the
 
 The Community ghost features
 star-shaped eyes.
+
 ![](/Readme/aave-community.png)
 
 ### Events
 
 The Events ghost features heart-shaped eyes.
+
 ![](/Readme/aave-events.png)
 
 ### DAO
 
 The DAO ghost features
 rhombus-shaped eyes.
+
 ![](/Readme/aave-dao.png)
 
 The derivative logos are constructed from three core elements:
@@ -106,6 +111,37 @@ C. Specific derivative wordmark based on the original Aave lettering.
 ## Derivative Logo PFPs
 
 Every segment of the Aave universe is paired with distinct color schemes, detailed later in this document.
+
 ![](/Readme/derivative-pfps.png)
 
 # Colors
+
+## Primary Palettes
+
+The Aave primary palette comprises two key scales: Gray and Purple.
+
+This primary palette forms the fundamental color scheme of the brand and is intended for use in all critical visual communications for Aave, including the Ghost Logomark and the Aave Wordmark.
+
+![](/Readme/primary-palettes.png)
+
+## Extended Palettes
+
+Colors from the extended palette are used for illustrations and derivative logos.
+
+![](/Readme/secondary-palettes.png)
+
+## Logo Colorways
+
+The Aave logo can be paired with most colors outlined in this guideline; however, it is recommended to predominantly use limited logo colorways derived from the primary color palette, as illustrated in the examples.
+
+![](/Readme/logo-colorways.png)
+
+## Derivative Palettes
+
+Each Aave derivative (Community, Events, DAO) has its own unique custom color palette.
+
+While white from the primary color palette can be used across all derivatives, the rest of the colors should be allocated to their respective derivatives.
+
+![](/Readme/derivative-palettes.png)
+
+# Typeface
